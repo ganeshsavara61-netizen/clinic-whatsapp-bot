@@ -1,0 +1,18 @@
+{
+  "name": "Sri Sai Clinic",
+  "doctor": "Dr. Ramesh",
+  "address": "Main Road, Your Town",
+  "phone": "+91 90000 00000",
+  "fee": "Consultation fee Rs. 300",
+  "slot_minutes": 15,
+  "hours": {
+    "mon": ["09:00", "13:00", "17:00", "20:00"],
+    "tue": ["09:00", "13:00", "17:00", "20:00"],
+    "wed": ["09:00", "13:00", "17:00", "20:00"],
+    "thu": ["09:00", "13:00", "17:00", "20:00"],
+    "fri": ["09:00", "13:00", "17:00", "20:00"],
+    "sat": ["09:00", "13:00"],
+    "sun": null
+  },
+  "extra_info": "Edit this text: services, lab timings, languages spoken, parking, etc."
+}
